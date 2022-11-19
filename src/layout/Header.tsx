@@ -1,6 +1,10 @@
+import "../styles/Header.css"
 const Header = () => {
     return ( 
-        <header>to jest nagłówek</header>
+        <header>
+            <h1>Kursy walut</h1>
+            
+            </header>
      );
 }
  
