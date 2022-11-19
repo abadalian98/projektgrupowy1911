@@ -1,0 +1,21 @@
+.nav-top{
+    width: 100%;
+}
+
+
+.nav-top ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+    /* border: 1px solid white; */  
+}
+
+.nav-top ul li{
+    color:  white;
+    margin: 5px 0px;
+    border: 1px solid white;
+    padding: 3px 7px;
+    background-color: rgb(31, 31, 246);
+
+}

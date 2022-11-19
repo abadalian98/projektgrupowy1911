@@ -1,0 +1,22 @@
+.nav-left{
+
+}
+.nav-left ul{
+    display:flex;
+    flex-direction:column;
+    /* justify-content:center; */
+    list-style-type: none;
+    margin-right: 80%;
+    margin-top: 10%;
+}
+.nav-left ul li{
+    color:  white;
+    margin: 0 auto;
+    border: 1px solid white;
+    padding: 3px 7px;
+    background-color: rgb(38, 96, 197);
+    width: 100px;
+}
+.nav-left ul li:hover{
+    background-color: blue;
+}
